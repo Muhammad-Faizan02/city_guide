@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">267843634666-8v714nedpcepfi0uu6ghe82gikbcbnjl.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">267843634666</string>
+    <string name="google_api_key" translatable="false">AIzaSyAFgzKJOxPDWRgX79VgW69dDdK8O48iJYI</string>
+    <string name="google_app_id" translatable="false">1:267843634666:android:babafe60e6b1333d281e93</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAFgzKJOxPDWRgX79VgW69dDdK8O48iJYI</string>
+    <string name="google_storage_bucket" translatable="false">city-project-2c714.firebasestorage.app</string>
+    <string name="project_id" translatable="false">city-project-2c714</string>
+</resources>

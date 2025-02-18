@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "267843634666",
+    "project_id": "city-project-2c714",
+    "storage_bucket": "city-project-2c714.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267843634666:android:babafe60e6b1333d281e93",
+        "android_client_info": {
+          "package_name": "com.example.city_guide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267843634666-8v714nedpcepfi0uu6ghe82gikbcbnjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFgzKJOxPDWRgX79VgW69dDdK8O48iJYI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267843634666-8v714nedpcepfi0uu6ghe82gikbcbnjl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "267843634666-aftbtokj82i8laj8vb9becg7evalcvgd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.travel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
