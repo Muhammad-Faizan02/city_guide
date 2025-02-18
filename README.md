@@ -128,9 +128,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - Thanks to the Flutter and Firebase teams for their amazing tools and documentation.
 - Special thanks to all contributors who helped improve this project.
-
----
-
-Feel free to customize the README further based on your specific needs or additional features you've implemented. Make sure to replace placeholder paths (like `path_to_screenshot.png`) with actual screenshots or links to images hosted online. 
-
-Good luck with your project! 🚀
